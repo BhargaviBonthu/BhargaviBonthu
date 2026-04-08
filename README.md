@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hi, I'm Bhargavi 👋
 
-<!--
-**BhargaviBonthu/BhargaviBonthu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Machine Learning Engineer with experience building end-to-end ML systems, data pipelines, and deploying scalable solutions using Python, SQL, and AWS.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 What I Do
+- Build and deploy machine learning models for real-world problems  
+- Design data pipelines and handle large-scale data processing  
+- Work on production-oriented ML systems (not just notebooks)
+
+---
+
+## 🛠️ Tech Stack
+- **Languages:** Python, SQL  
+- **ML:** Scikit-learn, Pandas, NumPy  
+- **Data Engineering:** ETL, Data Processing  
+- **Backend & Deployment:** FastAPI, AWS  
+- **Tools:** Git, Docker (learning)
+
+---
+
+## 📌 Featured Projects
+- 🔹 Movie Recommendation System (ML + API + Deployment)  
+  
+
+---
+
+## 📈 Current Focus
+- Building scalable ML systems  
+- Improving ML system design & deployment  
+- Preparing for ML Engineer roles in product companies  
+
+---
+
+## 📫 Connect with me
+- LinkedIn: www.linkedin.com/in/bhargavi-b-bb6a55219
