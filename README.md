@@ -1,6 +1,6 @@
 # Hi, I'm Bhargavi 👋
 
-Machine Learning Engineer with experience building end-to-end ML systems, data pipelines, and deploying scalable solutions using Python, SQL, and AWS.
+AIML Engineer with experience building end-to-end ML systems, data pipelines, and deploying scalable solutions using Python, SQL, and AWS.
 
 ---
 
@@ -16,7 +16,7 @@ Machine Learning Engineer with experience building end-to-end ML systems, data p
 - **ML:** Scikit-learn, Pandas, NumPy  
 - **Data Engineering:** ETL, Data Processing  
 - **Backend & Deployment:** FastAPI, AWS  
-- **Tools:** Git, Docker (learning)
+- **Tools:** Git, Docker
 
 ---
 
