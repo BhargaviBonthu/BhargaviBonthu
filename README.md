@@ -21,9 +21,11 @@ AIML Engineer with experience building end-to-end ML systems, data pipelines, an
 ---
 
 ## 📌 Featured Projects
+
 - 🔹 Movie Recommendation System (ML + API + Deployment)  
   
-
+- 🔹 Resume Screener
+- 🔹 AI Resume Analyser 
 ---
 
 ## 📈 Current Focus
