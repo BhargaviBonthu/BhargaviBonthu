@@ -1,6 +1,6 @@
 # Hi, I'm Bhargavi 👋
 
-AIML Engineer with experience building end-to-end ML systems, data pipelines, and deploying scalable solutions using Python, SQL, and AWS.
+Software engineer with aiml expertice building end-to-end ML systems, data pipelines, and deploying scalable solutions using Python, SQL, and AWS.
 
 ---
 
