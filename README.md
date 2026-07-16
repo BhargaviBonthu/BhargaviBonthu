@@ -1,6 +1,6 @@
 # Hi, I'm Bhargavi 👋
 
-Software engineer with aiml expertice building end-to-end ML systems, data pipelines, and deploying scalable solutions using Python, SQL, and AWS.
+Software engineer with aiml expertice building end-to-end ML systems, data pipelines, and deploying scalable solutions using Python, java,SQL, and AWS.
 
 ---
 
@@ -12,7 +12,7 @@ Software engineer with aiml expertice building end-to-end ML systems, data pipel
 ---
 
 ## 🛠️ Tech Stack
-- **Languages:** Python, SQL  
+- **Languages:** Python, Java, SQL  
 - **ML:** Scikit-learn, Pandas, NumPy  
 - **Data Engineering:** ETL, Data Processing  
 - **Backend & Deployment:** FastAPI, AWS  
